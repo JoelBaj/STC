@@ -5,7 +5,8 @@
 ## Requisitos
  - Herramientas necesarias:
     * Visual Studio Code
-    * Node
+    * Node versión 15.4.0
+
 
 ## Contenido
 

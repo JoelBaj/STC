@@ -6,7 +6,6 @@
   - Herramientas necesarias:
     * Java versión 8 
     * MongoDB version 4.4.29
-    * Node versión 15.4.0
     * WildFly versión 18.0.1 - (Importante configurar WildFly como servicio de Windows)
     * IntelliJ IDEA Community Edition
 
@@ -27,11 +26,9 @@
 
   - Debe tener comentado el tomcat, como se presenta en la siguiente imagen:
 
-  ![alt text](./src/img/tomcat.png)
 
   - Debe tener descomentado el tomcat y jasper, como se presenta en la siguiente imagen:
 
-  ![alt text](./src/img/tomcat_jasper.png)
 
 - Una vez hecho las modificaciones, proceda actualizar el maven.
 
@@ -67,11 +64,9 @@
 
   - Debe tener descomentado el tomcat, como se presenta en la siguiente imagen:
 
-    ![alt text](./src/img/pom.png)
 
   - Luego debe comentar el tomcat y jasper, como se presenta en la siguiente imagen:
 
-    ![alt text](./src/img/pom.xml.png)
 
 - Una vez hecho las modificaciones, proceda actualizar el maven.
 
@@ -91,8 +86,6 @@
 
 - Una vez hecho el paso anterior, el archivo .war se generará dentro del Api principal en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
 
-  ![alt text](./src/img/UrlWar.png)
-
 
 - AVISO: La generación del archivo .war puede variar según el ambiente, para ello debe dirigirse al archivo pom.xml, escribir la etiqueta "finalName" y siga las siguientes instrucciones:
 
@@ -102,7 +95,7 @@
 
   - Para más detalles, observe la siguiente imagen:
 
-   
+
 ---
 
 ### 1.4.- Despliegue de archivo .war en WildFly de manera local
