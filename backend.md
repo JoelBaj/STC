@@ -18,7 +18,9 @@
 
     -[1.2 Levantar Proyecto Integrador Log](#12-levantar-el-proyecto-integrador-log)
     
-    -[3.- Levantar Proyecto Integrador ARCH](#13-Proyecto-Integrador-ARCH)
+    -[1.3 Levantar Proyecto Integrador ARCH](#13-proyecto-integrador-arch)
+
+
 - [2.- Servidor](#2--servidordeployment)
 
 ## 1.- Configuraciones de manera local
@@ -180,7 +182,7 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 ### 1.2.4.- Despliegue de archivo .war (INTEGRADORWS) en WildFly de manera local
 - Dirigirse al punto - [1.1.4 Despliegue de archivo .war de manera local](#114-despliegue-de-archivo-war-en-wildfly-de-manera-local)
 
-### 1.3 Proyecto Integrador ARCH
+### 1.3.-Proyecto Integrador ARCH
 
 - Una vez clonado el proyecto, Abrirlo en el visual studio; luego abrir una nueva terminal y escriba el comando "npm i" para realizar las instalaciones de librerias necesarias.
 
