@@ -14,9 +14,11 @@
 
 - [1.- Configuraciones de manera local](#1--configuraciones-de-manera-local)
 
-    -[1.1 Levantar el proyecto STC General](#11-levantar-el-proyecto-stc-general)
+    -[1.1 Levantar Proyecto STC General](#11-levantar-el-proyecto-stc-general)
 
-    -[1.2 Levantar el proyecto integrador Log](#12-levantar-el-proyecto-integrador-log)
+    -[1.2 Levantar Proyecto Integrador Log](#12-levantar-el-proyecto-integrador-log)
+    
+    -[3.- Levantar Proyecto Integrador ARCH](#13-Proyecto-Integrador-ARCH)
 - [2.- Servidor](#2--servidordeployment)
 
 ## 1.- Configuraciones de manera local
@@ -94,7 +96,7 @@
 
 ### 1.1.3.2 Ubicación del archivo .war
 
-- Una vez hecho el paso anterior, el archivo .war se generará dentro del Api principal en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
+- Una vez hecho el paso anterior, el archivo .war se generará dentro del Api STC en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
 
 
 - AVISO: La generación del archivo .war puede variar según el ambiente, para ello debe dirigirse al archivo pom.xml, escribir la etiqueta "finalName" y siga las siguientes instrucciones:
@@ -177,6 +179,16 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 ---
 ### 1.2.4.- Despliegue de archivo .war (INTEGRADORWS) en WildFly de manera local
 - Dirigirse al punto - [1.1.4 Despliegue de archivo .war de manera local](#114-despliegue-de-archivo-war-en-wildfly-de-manera-local)
+
+### 1.3 Proyecto Integrador ARCH
+
+- Una vez clonado el proyecto, Abrirlo en el visual studio; luego abrir una nueva terminal y escriba el comando "npm i" para realizar las instalaciones de librerias necesarias.
+
+
+-  por ultimo para levantar la aplicación, escribir el siguiente comando "".
+   
+  archsoap.js
+
 
 ## 2.- Servidor(Deployment)
 

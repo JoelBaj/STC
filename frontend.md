@@ -5,8 +5,6 @@
 ## Requisitos
  - Herramientas necesarias:
     * Visual Studio Code
-    
-
 ## Contenido
 
 
