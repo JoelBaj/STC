@@ -134,7 +134,7 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 
 ---
 
-### 1.2.-Levantar el proyecto integrador Log 
+### 1.2.-Levantar el proyecto Integrador Log 
 
 - Revisar si el servicio wildfly está detenido, si está en ejecución proceda a detenerlo.
 - Una vez clonado el proyecto de manera local, procedemos abrirlo en el IDE
