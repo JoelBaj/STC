@@ -66,7 +66,7 @@
 
 ### 1.1.3.1-Guia para crear Archivo .war
 
-- Detener la API del proyecto principal antes de proceder con la creación del archivo .war en el siguiente paso.
+- Detener la API del proyecto antes de proceder con la creación del archivo .war en el siguiente paso.
 
 - Ubicarse en el archivo pom.xml, busque las siguientes dependencia en el cual debe seguir las siguientes instrucciones:
 
@@ -112,7 +112,7 @@
 
 ---
 
-- Importante detener la api del proyecto principal
+- Importante detener la api del proyecto STC
 - Debe estar en ejecución el servicio Wildfly
 - Seguir las instrucciones del manual en el punto 1.3 que se encuentra en el siguiente URL:
 
@@ -162,7 +162,7 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 
 ### 1.2.3 Ubicación del archivo .war
 
-- Una vez hecho el paso anterior, el archivo .war se generará dentro del Api principal en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
+- Una vez hecho el paso anterior, el archivo .war se generará dentro del Api en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
 
 
 - AVISO: La generación del archivo .war puede variar según el ambiente, para ello debe dirigirse al archivo pom.xml, escribir la etiqueta "finalName" y siga las siguientes instrucciones:
