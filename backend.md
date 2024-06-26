@@ -37,7 +37,7 @@
 
     ![alt text](./src/img/comentador_stc.png)
 
-  - Debe tener descomentado el tomcat y jasper, como se presenta en la siguiente imagen:
+  - Debe tener descomentado el jasper, como se presenta en la siguiente imagen:
 
     ![alt text](./src/img/descomentado1_stc.png)
     
@@ -78,7 +78,7 @@
 
     ![alt text](./src/img/descomentado_stc.png)
   
-  - Luego debe comentar el tomcat y jasper, como se presenta en la siguiente imagen:
+  - Luego debe comentar el jasper, como se presenta en la siguiente imagen:
 
     ![alt text](./src/img/comentador1_stc_.png)
   
