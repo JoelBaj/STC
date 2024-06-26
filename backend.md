@@ -100,6 +100,7 @@
 
 - Una vez hecho el paso anterior, el archivo .war se generará dentro del Api STC en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
 
+![alt text](./src/img/war.stc.png)
 
 - AVISO: La generación del archivo .war puede variar según el ambiente, para ello debe dirigirse al archivo pom.xml, escribir la etiqueta "finalName" y siga las siguientes instrucciones:
 
@@ -168,6 +169,7 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 
 - Una vez hecho el paso anterior, el archivo .war se generará dentro del Api en el directorio de target, para más detalles, vea el ejemplo en la siguiente imagen:
 
+ ![alt text](./src/img/war_log.png)
 
 - AVISO: La generación del archivo .war puede variar según el ambiente, para ello debe dirigirse al archivo pom.xml, escribir la etiqueta "finalName" y siga las siguientes instrucciones:
 
@@ -188,9 +190,9 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 
 
 -  por ultimo para levantar la aplicación, escribir el siguiente comando "".
-   
-  archsoap.js
-
+  ```
+  node archSoap.js
+  ```
 
 ## 2.- Servidor(Deployment)
 
