@@ -108,11 +108,11 @@
 
 ---
 
-### 1.1.4.- Despliegue de archivo .war en WildFly de manera local
+### 1.1.4.-Despliegue de archivo .war en WildFly de manera local
 
 ---
 
-- Importante detener la api del proyecto STC
+- Importante detener la api del proyecto
 - Debe estar en ejecución el servicio Wildfly
 - Seguir las instrucciones del manual en el punto 1.3 que se encuentra en el siguiente URL:
 
@@ -175,6 +175,8 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 
 
 ---
+### 1.2.4.- Despliegue de archivo .war (INTEGRADORWS) en WildFly de manera local
+- Dirigirse al punto - [1.1.4 Despliegue de archivo .war de manera local](#114-despliegue-de-archivo-war-en-wildfly-de-manera-local)
 
 ## 2.- Servidor(Deployment)
 
