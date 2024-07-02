@@ -189,7 +189,7 @@ https://drive.google.com/file/d/104GB6vxkwW3gItneXXyoz6LIShzNCoVW/view?usp=shari
 - Una vez clonado el proyecto, Abrirlo en el visual studio; luego abrir una nueva terminal y escriba el comando "npm i" para realizar las instalaciones de librerias necesarias.
 
 
--  por ultimo para levantar la aplicación, escribir el siguiente comando "".
+-  por ultimo para levantar la aplicación, escribir el siguiente comando:
   ```
   node archSoap.js
   ```

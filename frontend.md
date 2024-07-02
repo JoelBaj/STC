@@ -10,3 +10,4 @@
 
 ## Pasos a seguir para levantar el proyecto
 
+![alt text](src/img/microservicio_stc_front.png)
